@@ -30,8 +30,11 @@ Check out some of our featured products:
 "Fast shipping and excellent customer service. Will definitely be back for more!" - John
 
 ## Get in Touch
-Have questions or feedback? Contact our customer support team at support@example.com or follow us on [Twitter](https://twitter.com/example) for the latest updates.
+Have questions or feedback? Contact our customer support team at elegance.boutique2024@gmail.com or follow us on [Twitter](https://twitter.com/example) for the latest updates.
 
 We look forward to serving you!
 
 ![Company Logo](https://example.com/logo.png)
+![Shopping Bag](https://example.com/shopping-bag.jpg)
+
+
